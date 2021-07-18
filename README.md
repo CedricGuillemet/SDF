@@ -52,7 +52,7 @@ https://twitter.com/SDFmodelerUE4
 Clayxels is the volumetric toolkit for Unity
 https://assetstore.unity.com/packages/tools/game-toolkits/clayxels-165312
 
-## Algorithms
+## Algorithms / Papers
 
 Iq distance functions
 https://iquilezles.untergrund.net/www/articles/distfunctions/distfunctions.htm
@@ -69,6 +69,19 @@ http://gamma.cs.unc.edu/RECONS/maxnorm.pdf
 Distance to Quadratic Bezier
 https://twitter.com/jbaker_graphics/status/1415767199382396940
 3D: https://www.shadertoy.com/view/7dfGD2
+
+GPU-Driven Rendering Pipelines / Cluster rendering
+https://advances.realtimerendering.com/s2015/aaltonenhaar_siggraph2015_combined_final_footer_220dpi.pdf
+
+## Talks
+
+Advanced-Procedural-Rendering-with-DirectX
+https://www.gdcvault.com/play/1015726/Advanced-Procedural-Rendering-with-DirectX
+
+Advanced Graphics Techniques Tutorial: GPU-Based Clay Simulation and Ray-Tracing Tech in 'Claybook'
+https://www.gdcvault.com/play/1025030/Advanced-Graphics-Techniques-Tutorial-GPU
+https://www.youtube.com/watch?v=Xpf7Ua3UqOA
+
 
 ## Twitter discussions
 
