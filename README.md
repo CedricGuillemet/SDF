@@ -73,6 +73,10 @@ https://twitter.com/jbaker_graphics/status/1415767199382396940
 GPU-Driven Rendering Pipelines / Cluster rendering
 https://advances.realtimerendering.com/s2015/aaltonenhaar_siggraph2015_combined_final_footer_220dpi.pdf
 
+Making Signed Distance Field Textures With Jump Flooding Algorithm (2D)
+https://blog.demofox.org/2016/02/29/fast-voronoi-diagrams-and-distance-dield-textures-on-the-gpu-with-the-jump-flooding-algorithm/
+https://blog.demofox.org/2016/03/02/actually-making-signed-distance-field-textures-with-jfa/
+
 ## Talks
 
 Advanced-Procedural-Rendering-with-DirectX
