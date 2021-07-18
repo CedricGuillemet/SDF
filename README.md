@@ -1,4 +1,4 @@
-# Signed Distance field (SDF)
+# Signed Distance Field (SDF)
 
 Resources, links, papers, discussions, ShaderToys on SDF and related algorithm.
 Please contibute to this resource by sending your PRs!
@@ -13,6 +13,12 @@ http://bentonian.com/Lectures/FGraphics1819/1.%20Ray%20Marching%20and%20Signed%2
 
 Sungiant, Sphere tracing signed distance functions (Scala)
 https://github.com/sungiant/sdf
+
+Rendering Worlds with Two Triangles / with raytracing on the GPU in 4096 bytes
+https://www.iquilezles.org/www/material/nvscene2008/rwwtt.pdf
+
+Raymarching Beginners' Thread
+https://www.pouet.net/topic.php?which=7920&page=1
 
 ## Games and tools
 
@@ -82,6 +88,9 @@ Making Signed Distance Field Textures With Jump Flooding Algorithm (2D)
 https://blog.demofox.org/2016/02/29/fast-voronoi-diagrams-and-distance-dield-textures-on-the-gpu-with-the-jump-flooding-algorithm/
 https://blog.demofox.org/2016/03/02/actually-making-signed-distance-field-textures-with-jfa/
 
+Enhanced Sphere Tracing
+https://erleuchtet.org/~cupe/permanent/enhanced_sphere_tracing.pdf
+
 ## Talks
 
 Advanced-Procedural-Rendering-with-DirectX
@@ -91,9 +100,27 @@ Advanced Graphics Techniques Tutorial: GPU-Based Clay Simulation and Ray-Tracing
 https://www.gdcvault.com/play/1025030/Advanced-Graphics-Techniques-Tutorial-GPU
 https://www.youtube.com/watch?v=Xpf7Ua3UqOA
 
+Rendering mandelbox fractals faster with cone marching
+https://www.youtube.com/watch?v=4Q5sgNCN2Jw&t=530s
+http://www.fulcrum-demo.org/wp-content/uploads/2012/04/Cone_Marching_Mandelbox_by_Seven_Fulcrum_LongVersion.pdf
+https://www.pouet.net/prod.php?which=59072
+
+Conemarching in VR / Developing a Fractal experience at 90 FPS / Johannes Saam / Mariano Merchante / FRAMESTORE
+https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdc2018/presentations/Saam_Johannes_Merchante_Mariano_Conemarching%20in%20VR.pdf
+https://www.gdcvault.com/play/1025454/Cone-Marching-in-VR-Developing
 
 ## Twitter discussions
 
 BVH with blending
 https://twitter.com/TheKristofLovas/status/1415000116629495808
+
+fBM style displacement Inigo quilez @iquilezles
+https://twitter.com/iquilezles/status/1414738043118899200
+https://iquilezles.org/www/articles/fbmsdf/fbmsdf.htm
+
+## Code
+
+hg_sdf A glsl library for building signed distance functions by Mercury
+https://mercury.sexy/hg_sdf/
+
 
