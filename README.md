@@ -20,6 +20,12 @@ https://www.iquilezles.org/www/material/nvscene2008/rwwtt.pdf
 Raymarching Beginners' Thread
 https://www.pouet.net/topic.php?which=7920&page=1
 
+Potatro, RayMarching and DistanceFields : a story of SphereTracing
+https://xoofx.com/blog/2009/10/12/potatro-and-raymarching-story-of/
+
+Ray Marching for Dummies!
+https://www.youtube.com/watch?v=PGtv-dBi2wE
+
 ## Games and tools
 
 ### Dreams
@@ -90,6 +96,12 @@ https://blog.demofox.org/2016/03/02/actually-making-signed-distance-field-textur
 
 Enhanced Sphere Tracing
 https://erleuchtet.org/~cupe/permanent/enhanced_sphere_tracing.pdf
+
+Collection of smooth minimums, maximums, ramps, and absolutes.
+https://www.shadertoy.com/view/ltf3W2
+
+Segment Tracing Using Local Lipschitz Bounds (improve the marching step computation and accelerate the overall process.)
+https://diglib.eg.org/handle/10.1111/cgf13951
 
 ## Talks
 
