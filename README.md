@@ -26,6 +26,9 @@ https://xoofx.com/blog/2009/10/12/potatro-and-raymarching-story-of/
 Ray Marching for Dummies!
 https://www.youtube.com/watch?v=PGtv-dBi2wE
 
+Electric Square, Raymarching Workshop
+https://github.com/electricsquare/raymarching-workshop
+
 ## Games and tools
 
 ### Dreams
