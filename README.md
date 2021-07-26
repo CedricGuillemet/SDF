@@ -136,7 +136,7 @@ https://www.gdcvault.com/play/1025454/Cone-Marching-in-VR-Developing
 Fluid and Particle Physics in PixelJunk Shooter. 2D fluids collision detection with SDF
 https://www.gdcvault.com/play/1012447/Go-With-the-Flow-Fluid
 
-## Twitter discussions
+## Twitter/Reddit discussions
 
 BVH with blending
 https://twitter.com/TheKristofLovas/status/1415000116629495808
@@ -145,9 +145,14 @@ fBM style displacement Inigo quilez @iquilezles
 https://twitter.com/iquilezles/status/1414738043118899200
 https://iquilezles.org/www/articles/fbmsdf/fbmsdf.htm
 
+How is SDF stored in a octree?
+https://www.reddit.com/r/VoxelGameDev/comments/ontjdf/how_is_sdf_stored_in_a_octree/h5vrbea/
+
 ## Code
 
 hg_sdf A glsl library for building signed distance functions by Mercury
 https://mercury.sexy/hg_sdf/
 
-
+Rust & Vulkan test projects. "The first test project renders 1 million cubes, each containing a 950 MB (uncompressed) distance field volume.
+The second test project is going to be using sparse octree storing a hierarchy of distance field volume bricks."
+https://github.com/sebbbi/rust_test
