@@ -67,6 +67,12 @@ https://twitter.com/SDFmodelerUE4
 Clayxels is the volumetric toolkit for Unity
 https://assetstore.unity.com/packages/tools/game-toolkits/clayxels-165312
 
+### unbound.io
+Collaborative SDF editing
+https://www.unbound.io/
+https://twitter.com/unbound_io
+https://on-demand.gputechconf.com/gtc/2017/presentation/s7777-florian-hoenig-a-road-to-3d-for-everyone.pdf
+
 ## Demos
 
 SDF / Ray Marching Prototypes. A collection of SDF related examples using fungi to handle the rendering.
@@ -106,6 +112,9 @@ https://www.shadertoy.com/view/ltf3W2
 Segment Tracing Using Local Lipschitz Bounds (improve the marching step computation and accelerate the overall process.)
 https://diglib.eg.org/handle/10.1111/cgf13951
 
+Improved Alpha-Tested Magnification for Vector Textures and Special Effects (Valve 2007)
+https://steamcdn-a.akamaihd.net/apps/valve/2007/SIGGRAPH2007_AlphaTestedMagnification.pdf
+
 ## Talks
 
 Advanced-Procedural-Rendering-with-DirectX
@@ -123,6 +132,9 @@ https://www.pouet.net/prod.php?which=59072
 Conemarching in VR / Developing a Fractal experience at 90 FPS / Johannes Saam / Mariano Merchante / FRAMESTORE
 https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdc2018/presentations/Saam_Johannes_Merchante_Mariano_Conemarching%20in%20VR.pdf
 https://www.gdcvault.com/play/1025454/Cone-Marching-in-VR-Developing
+
+Fluid and Particle Physics in PixelJunk Shooter. 2D fluids collision detection with SDF
+https://www.gdcvault.com/play/1012447/Go-With-the-Flow-Fluid
 
 ## Twitter discussions
 
