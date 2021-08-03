@@ -115,6 +115,9 @@ https://diglib.eg.org/handle/10.1111/cgf13951
 Improved Alpha-Tested Magnification for Vector Textures and Special Effects (Valve 2007)
 https://steamcdn-a.akamaihd.net/apps/valve/2007/SIGGRAPH2007_AlphaTestedMagnification.pdf
 
+Tom Duff, Interval Arithmetic and Recursive Subdivision for Implicit Functions and Constructive Solid Geometry
+http://fab.cba.mit.edu/classes/S62.12/docs/Duff_interval_CSG.pdf
+
 ## Talks
 
 Advanced-Procedural-Rendering-with-DirectX
