@@ -64,6 +64,10 @@ GIF here : https://twitter.com/DaniGatunes/status/1413388975713173506
 
 https://twitter.com/SDFmodelerUE4
 
+### Antimony
+CSG (CAD) tool
+https://www.mattkeeter.com/projects/antimony/3/
+https://github.com/mkeeter/antimony
 
 ### Clayxels
 
@@ -118,6 +122,9 @@ https://diglib.eg.org/handle/10.1111/cgf13951
 Improved Alpha-Tested Magnification for Vector Textures and Special Effects (Valve 2007)
 https://steamcdn-a.akamaihd.net/apps/valve/2007/SIGGRAPH2007_AlphaTestedMagnification.pdf
 
+Massively Parallel Rendering of Complex Closed-Form Implicit Surfaces
+https://www.mattkeeter.com/research/mpr/
+
 ## Talks
 
 Advanced-Procedural-Rendering-with-DirectX
@@ -159,3 +166,6 @@ https://mercury.sexy/hg_sdf/
 Rust & Vulkan test projects. "The first test project renders 1 million cubes, each containing a 950 MB (uncompressed) distance field volume.
 The second test project is going to be using sparse octree storing a hierarchy of distance field volume bricks."
 https://github.com/sebbbi/rust_test
+
+libfive is a software library and set of tools for solid modeling, especially suited for parametric and procedural design.
+https://libfive.com/
