@@ -125,6 +125,9 @@ https://steamcdn-a.akamaihd.net/apps/valve/2007/SIGGRAPH2007_AlphaTestedMagnific
 Massively Parallel Rendering of Complex Closed-Form Implicit Surfaces
 https://www.mattkeeter.com/research/mpr/
 
+Tom Duff, Interval Arithmetic and Recursive Subdivision for Implicit Functions and Constructive Solid Geometry
+http://fab.cba.mit.edu/classes/S62.12/docs/Duff_interval_CSG.pdf
+
 ## Talks
 
 Advanced-Procedural-Rendering-with-DirectX
