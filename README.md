@@ -135,6 +135,12 @@ http://fab.cba.mit.edu/classes/S62.12/docs/Duff_interval_CSG.pdf
 Raph Levien’s research on 2D blurred shapes
 https://raphlinus.github.io/graphics/2020/04/21/blurred-rounded-rects.html
 
+Interval raymarching
+https://dercuano.github.io/notes/interval-raymarching.html
+
+GigaVoxels:A Voxel-Based Rendering Pipeline For Efficient Exploration Of Large And Detailed Scenes
+http://maverick.inria.fr/Membres/Cyril.Crassin/thesis/CCrassinThesis_EN_Web.pdf
+
 ## Talks
 
 Advanced-Procedural-Rendering-with-DirectX
@@ -170,6 +176,9 @@ https://www.reddit.com/r/VoxelGameDev/comments/ontjdf/how_is_sdf_stored_in_a_oct
 
 Using @SebAaltonen's eikonal solver (https://shadertoy.com/view/ltGGRw) to fix interior/exterior of SDF after add/cut.
 https://twitter.com/Calneon/status/1422316033071882243
+
+Casey Muratori's helpful notes for Implicit Surfaces and Interval Arithmetic
+https://hastebin.com/raw/orenawiwum
 
 ## Code
 
