@@ -141,6 +141,28 @@ https://dercuano.github.io/notes/interval-raymarching.html
 GigaVoxels:A Voxel-Based Rendering Pipeline For Efficient Exploration Of Large And Detailed Scenes
 http://maverick.inria.fr/Membres/Cyril.Crassin/thesis/CCrassinThesis_EN_Web.pdf
 
+Adaptively Sampled Distance Fields: A General Representation of Shape for Computer Graphics
+_ *Frisken, Perry, Rockwood, and Jones - 2000*
+https://www.merl.com/publications/docs/TR2000-15.pdf
+
+Kizamu: A System for Scuplting Digital Characters - *Frisken and Perry - 2001*
+https://dl.acm.org/doi/abs/10.1145/383259.383264
+
+Hierarchical hp-Adaptive Signed Distance Fields - *Koschier, Deul, and Bender - 2016*
+http://interactive-graphics.de/index.php/research/98-hierarchical-hp-adaptive-signed-distance-fields
+
+GPU-Accelerated Adaptively Sampled Distance Fields - *Bastos and Celes - 2008*
+https://www.researchgate.net/profile/Waldemar-Celes/publication/4344580_GPU-accelerated_Adaptively_Sampled_Distance_Fields/links/00b7d522f51ab59cc9000000/GPU-accelerated-Adaptively-Sampled-Distance-Fields.pdf
+
+Signed Distance Computation using the Angle Weighted Pseudo-normal - *Bærentzen and Aanæs - 2005*
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.107.9173&rep=rep1&type=pdf
+
+Fast Winding Numbers for Soups and Clouds - *Barill, Dickson, Schmidt, Levin, and Jacobson - 2018*
+https://www.dgp.toronto.edu/projects/fast-winding-numbers/
+
+Non-linear Sphere Tracing for Rendering Deformed Signed Distance Fields - *Seyb, Jacobson, Nowrouzezahrai, and Jarosz - 2019*
+https://cs.dartmouth.edu/~wjarosz/publications/seyb19nonlinear.html
+
 ## Talks
 
 Advanced-Procedural-Rendering-with-DirectX
@@ -191,3 +213,14 @@ https://github.com/sebbbi/rust_test
 
 libfive is a software library and set of tools for solid modeling, especially suited for parametric and procedural design.
 https://libfive.com/
+
+## Conversion to Polygonal Mesh
+
+isosurface: A project testing and comparing various algorithms for creating isosurfaces
+https://github.com/Lin20/isosurface
+
+Manifold Dual Contouring - *Schaefer, Ju, and Warren - 2007*
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.75.9707&rep=rep1&type=pdf
+
+Dual Contouring Tutorial
+https://www.boristhebrave.com/2018/04/15/dual-contouring-tutorial/
