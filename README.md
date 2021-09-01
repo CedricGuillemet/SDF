@@ -84,6 +84,10 @@ https://on-demand.gputechconf.com/gtc/2017/presentation/s7777-florian-hoenig-a-r
 "Claybook is a unique world made entirely of clay. Shape your character and the world around you to overcome challenging obstacles."
 https://store.steampowered.com/app/661920/Claybook/
 
+### Signed
+Signed is a Lua based 3D modeling and construction language and will be a unique way to create 3D content, objects as well as whole scenes, in high detail.
+https://github.com/markusmoenig/Signed
+
 ## Demos
 
 SDF / Ray Marching Prototypes. A collection of SDF related examples using fungi to handle the rendering.
