@@ -32,6 +32,9 @@ https://github.com/electricsquare/raymarching-workshop
 2D Distance fields with Unity and Unreal
 https://joyrok.com/SDFs-Part-Two
 
+SDF Decomposition
+http://zone.dog/braindump/sdf_clustering/
+
 ## Games and tools
 
 ### Dreams
