@@ -167,6 +167,9 @@ https://www.dgp.toronto.edu/projects/fast-winding-numbers/
 Non-linear Sphere Tracing for Rendering Deformed Signed Distance Fields - *Seyb, Jacobson, Nowrouzezahrai, and Jarosz - 2019*
 https://cs.dartmouth.edu/~wjarosz/publications/seyb19nonlinear.html
 
+Concurrent Binary Trees (with application to longest edge bisection)
+https://onrendering.com/data/papers/cbt/ConcurrentBinaryTrees.pdf
+
 ## Talks
 
 Advanced-Procedural-Rendering-with-DirectX
@@ -205,6 +208,12 @@ https://twitter.com/Calneon/status/1422316033071882243
 
 Casey Muratori's helpful notes for Implicit Surfaces and Interval Arithmetic
 https://hastebin.com/raw/orenawiwum
+
+"my best idea right now is to start in the middle of the ray/bounds intersection, and add new samples at the half way point of every unknown segment of the ray until you find a hit with no unknown space preceding it"
+https://twitter.com/ladyaeva/status/1201770482766364672
+
+"the idea here is that you start at the graph leaves and work your way down to the graph root.  leaves emit geometry for basic shapes.  operators modify the mesh data, and so on."
+https://twitter.com/ladyaeva/status/1410120245621239808
 
 ## Code
 
