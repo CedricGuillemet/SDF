@@ -93,6 +93,9 @@ https://github.com/markusmoenig/Signed
 
 ## Demos
 
+Bounding Volume Hierarchy (BVH) implementation for SDFs to reduce per ray distance measurements
+https://youtu.be/2T2FqvtXqLw
+
 SDF / Ray Marching Prototypes. A collection of SDF related examples using fungi to handle the rendering.
 https://sketchpunk.bitbucket.io/
 
