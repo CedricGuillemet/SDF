@@ -63,7 +63,7 @@ SDF editor on the web
 https://slimery.art/
 GIF here : https://twitter.com/DaniGatunes/status/1413388975713173506
 
-### Distance Filed Modeler for Unreal Engine
+### Distance Field Modeler for Unreal Engine
 
 https://twitter.com/SDFmodelerUE4
 
@@ -145,7 +145,7 @@ http://fab.cba.mit.edu/classes/S62.12/docs/Duff_interval_CSG.pdf
 Raph Levien’s research on 2D blurred shapes
 https://raphlinus.github.io/graphics/2020/04/21/blurred-rounded-rects.html
 
-Interval raymarching
+Interval Raymarching
 https://dercuano.github.io/notes/interval-raymarching.html
 
 GigaVoxels:A Voxel-Based Rendering Pipeline For Efficient Exploration Of Large And Detailed Scenes
@@ -155,7 +155,7 @@ Adaptively Sampled Distance Fields: A General Representation of Shape for Comput
 _ *Frisken, Perry, Rockwood, and Jones - 2000*
 https://www.merl.com/publications/docs/TR2000-15.pdf
 
-Kizamu: A System for Scuplting Digital Characters - *Frisken and Perry - 2001*
+Kizamu: A System for Sculpting Digital Characters - *Frisken and Perry - 2001*
 https://dl.acm.org/doi/abs/10.1145/383259.383264
 
 Hierarchical hp-Adaptive Signed Distance Fields - *Koschier, Deul, and Bender - 2016*
@@ -175,6 +175,13 @@ https://cs.dartmouth.edu/~wjarosz/publications/seyb19nonlinear.html
 
 Concurrent Binary Trees (with application to longest edge bisection)
 https://onrendering.com/data/papers/cbt/ConcurrentBinaryTrees.pdf
+
+Bounding Interval Hierarchies (BIH) - 2006
+(for improved per Ray distance calculations)
+https://people.cs.clemson.edu/~dhouse/courses/405/papers/bounding-interval-WK06.pdf
+
+GPU accelerated BIH Construction - 2014
+https://www.uni-weimar.de/fileadmin/user/fak/medien/professuren/Virtual_Reality/documents/publications/2014.bih_construction_using_dynamic_parallelism.pdf
 
 ## Talks
 
