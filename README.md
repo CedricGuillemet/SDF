@@ -185,6 +185,10 @@ https://www.uni-weimar.de/fileadmin/user/fak/medien/professuren/Virtual_Reality/
 
 ## Talks
 
+Dynamic Bounding Volume Hierarchies
+(BVH methods applicable to BIH)
+https://box2d.org/files/ErinCatto_DynamicBVH_GDC2019.pdf
+
 Advanced-Procedural-Rendering-with-DirectX
 https://www.gdcvault.com/play/1015726/Advanced-Procedural-Rendering-with-DirectX
 
