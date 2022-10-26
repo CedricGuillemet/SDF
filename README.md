@@ -38,6 +38,10 @@ http://zone.dog/braindump/sdf_clustering/
 The smallest WebGL SDF raymarcher (135 bytes), with detailed source code and useful links
 https://xem.github.io/articles/webgl_quest_2.html
 
+SDF Generator using Compute Shaders in Unity
+https://mateigiurgiu.com/unity-sdf-generator-part-1/
+https://mateigiurgiu.com/unity-sdf-generator-part-2/
+
 ## Games and tools
 
 ### Dreams
