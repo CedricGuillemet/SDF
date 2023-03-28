@@ -215,6 +215,9 @@ https://www.gdcvault.com/play/1025454/Cone-Marching-in-VR-Developing
 Fluid and Particle Physics in PixelJunk Shooter. 2D fluids collision detection with SDF
 https://www.gdcvault.com/play/1012447/Go-With-the-Flow-Fluid
 
+Realtime sparse Distance Fields for game
+https://gpuopen.com/gdc-presentations/2023/GDC-2023-Sparse-Distance-Fields-For-Games.pdf
+
 ## Twitter/Reddit discussions
 
 BVH with blending
