@@ -98,6 +98,10 @@ https://store.steampowered.com/app/661920/Claybook/
 Signed is a Lua based 3D modeling and construction language and will be a unique way to create 3D content, objects as well as whole scenes, in high detail.
 https://github.com/markusmoenig/Signed
 
+### SDF pathtracer on CPU
+Pathtracer written on CPU which is capable of rendering both SDF as functions and as a volume grids. The application is written on top of Yocto/GL library. 
+https://github.com/edu-rinaldi/Volumetric-Path-Tracer
+
 ## Demos
 
 Bounding Volume Hierarchy (BVH) implementation for SDFs to reduce per ray distance measurements
