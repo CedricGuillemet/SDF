@@ -194,6 +194,9 @@ https://people.cs.clemson.edu/~dhouse/courses/405/papers/bounding-interval-WK06.
 GPU accelerated BIH Construction - 2014
 https://www.uni-weimar.de/fileadmin/user/fak/medien/professuren/Virtual_Reality/documents/publications/2014.bih_construction_using_dynamic_parallelism.pdf
 
+Synchronized-tracing of implicit surfaces - 2023
+https://arxiv.org/pdf/2304.09673.pdf
+
 ## Talks
 
 Dynamic Bounding Volume Hierarchies
