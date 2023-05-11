@@ -38,6 +38,10 @@ http://zone.dog/braindump/sdf_clustering/
 The smallest WebGL SDF raymarcher (135 bytes), with detailed source code and useful links
 https://xem.github.io/articles/webgl_quest_2.html
 
+SDF Generator using Compute Shaders in Unity
+https://mateigiurgiu.com/unity-sdf-generator-part-1/
+https://mateigiurgiu.com/unity-sdf-generator-part-2/
+
 ## Games and tools
 
 ### Dreams
@@ -93,6 +97,10 @@ https://store.steampowered.com/app/661920/Claybook/
 ### Signed
 Signed is a Lua based 3D modeling and construction language and will be a unique way to create 3D content, objects as well as whole scenes, in high detail.
 https://github.com/markusmoenig/Signed
+
+### SDF pathtracer on CPU
+Pathtracer written on CPU which is capable of rendering both SDF as functions and as a volume grids. The application is written on top of Yocto/GL library. 
+https://github.com/edu-rinaldi/Volumetric-Path-Tracer
 
 ## Demos
 
@@ -210,6 +218,9 @@ https://www.gdcvault.com/play/1025454/Cone-Marching-in-VR-Developing
 
 Fluid and Particle Physics in PixelJunk Shooter. 2D fluids collision detection with SDF
 https://www.gdcvault.com/play/1012447/Go-With-the-Flow-Fluid
+
+Realtime sparse Distance Fields for game
+https://gpuopen.com/gdc-presentations/2023/GDC-2023-Sparse-Distance-Fields-For-Games.pdf
 
 ## Twitter/Reddit discussions
 
