@@ -51,7 +51,6 @@ https://www.rykap.com/2020/09/23/distance-fields/
 Ray Marching
 https://michaelwalczyk.com/blog-ray-marching.html
 
-
 ## Games and tools
 
 ### Dreams
