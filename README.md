@@ -42,6 +42,18 @@ SDF Generator using Compute Shaders in Unity
 https://mateigiurgiu.com/unity-sdf-generator-part-1/
 https://mateigiurgiu.com/unity-sdf-generator-part-2/
 
+An Introduction to Raymarching
+https://typhomnt.github.io/teaching/ray_tracing/raymarching_intro/
+
+Ray Marching Soft Shadows in 2D
+https://www.rykap.com/2020/09/23/distance-fields/
+
+Ray Marching
+https://michaelwalczyk.com/blog-ray-marching.html
+
+Shape Lens Blur Effect with SDFs and WebGL
+https://tympanus.net/codrops/2024/06/12/shape-lens-blur-effect-with-sdfs-and-webgl/
+
 ## Games and tools
 
 ### Dreams
