@@ -51,6 +51,9 @@ https://www.rykap.com/2020/09/23/distance-fields/
 Ray Marching
 https://michaelwalczyk.com/blog-ray-marching.html
 
+Shape Lens Blur Effect with SDFs and WebGL
+https://tympanus.net/codrops/2024/06/12/shape-lens-blur-effect-with-sdfs-and-webgl/
+
 ## Games and tools
 
 ### Dreams
